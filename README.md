@@ -1,0 +1,1 @@
+# vietnamese-password-dicts
